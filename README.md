@@ -22,9 +22,9 @@ train/y_train.txt - activity (from 1 to 6) for each measurement from the train s
 test/y_test.txt - activity (from 1 to 6) for each measurement from the test set
 
 
-This is the course project for the Getting and Cleaning Data Coursera course.
+# This is the course project for the Getting and Cleaning Data Coursera course.
 
-The included R script, *run_analysis.R*, conducts the following:
+# The included R script, *run_analysis.R*, conducts the following:
 
 
 
